@@ -1,6 +1,6 @@
-# Design history for GOV.UK services
+# Design history for NHS.UK services
 
-A place for you to document your GOV.UK service designs.
+A place for you to document your NHS.UK service designs.
 
 ## Purpose of this project
 
