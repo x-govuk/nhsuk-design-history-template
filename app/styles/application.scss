@@ -1,0 +1,19 @@
+// Use NHS.UK frontend components
+@use "pkg:nhsuk-frontend/dist/nhsuk";
+
+// Use NHS.UK Eleventy Plugin components
+@use "pkg:@x-govuk/nhsuk-eleventy-plugin";
+
+// App components
+@forward "../_components/";
+
+// App-specific prose styles
+.app-prose-scope {
+  .nhsuk-image {
+    width: 100%;
+  }
+
+  .nhsuk-image__img {
+    padding: nhsuk-spacing(2);
+  }
+}
