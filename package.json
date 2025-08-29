@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",
-    "@x-govuk/nhsuk-eleventy-plugin": "^1.0.0",
+    "@x-govuk/nhsuk-eleventy-plugin": "^1.0.3",
     "http-server": "^14.1.1",
     "rimraf": "^6.0.0",
     "sass": "^1.80.5"
