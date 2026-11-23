@@ -27,13 +27,11 @@ Some real examples are:
 
 ## This page was generated
 
-After screenshots were saved to the `app/images/example-post` directory, [this page was generated](https://github.com/x-govuk/govuk-design-history-template/pull/11/commits/473f5aca5d978a3d18ac188b98c6c8ef6c000713) using the following command:
+Put screenshots in the same folder as your post. To generate a new post from screenshots in `app/posts/my-design`, run:
 
 ```bash
-node scripts/generate.js example-post
+node scripts/generate.js my-design
 ```
-
-[Read the guide on how to use this script](https://x-govuk.github.io/govuk-design-history/generate-a-page-of-screenshots/#generate-a-page-of-screenshots-from-a-folder-of-images)
 
 ## You can print this page
 
